@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner](https://github.com/Alexandre-RICHARD/Alexandre-RICHARD/blob/main/banner.png)
+
+Je m'appelle Alexandre Richard et je suis développeur Web Front et Back (mais surtout Front)
 
 <!--
 **Alexandre-RICHARD/Alexandre-RICHARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
